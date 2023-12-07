@@ -1,0 +1,12 @@
+.active{
+    background-color: transparent !important;
+    color: #FF4D24 !important;
+    font-size: 1.2rem;
+}
+
+.active button {
+    background-color: black;
+}
+.nav-ul li{
+    color: white;
+}

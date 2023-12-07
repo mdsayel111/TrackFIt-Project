@@ -1,0 +1,4 @@
+.workout_routine table, .workout_routine th, .workout_routine td, .workout_routine tr{
+    border: 1px solid white;
+    color: white
+  }

@@ -1,0 +1,4 @@
+.hero-overlay{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), #E8522F) !important;
+    opacity: 0.2;
+}

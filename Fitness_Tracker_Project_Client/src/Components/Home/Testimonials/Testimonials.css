@@ -1,0 +1,13 @@
+.awssld {
+    height: 50vh !important;
+}
+.awssld__container{
+    padding: 0 !important;
+    height: fit-content !important;
+}
+
+@media (max-width: 520px) {
+    .awssld__controls {
+      visibility: visible;
+    }
+  }

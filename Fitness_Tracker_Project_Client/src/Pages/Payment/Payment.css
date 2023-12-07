@@ -1,0 +1,13 @@
+.payment{
+    background-color: #110E10;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.payment .StripeElement{
+    width: 100%;
+} 
+
+.CardBrandIcon-container{
+    color: white !important;
+}
